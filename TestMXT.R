@@ -1,2 +1,2 @@
-"Hello from RStudio"
+"This is RStudio's line"
 "Hello from GitHub"
