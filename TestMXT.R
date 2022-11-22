@@ -7,3 +7,4 @@
 "Purple"
 
 "What is John's favorite color?"
+"Blue or Green or Brown equally tie for my favorite"
