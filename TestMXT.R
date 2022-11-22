@@ -12,4 +12,4 @@
 "My family's dog is named Bubba."
 
 "What is John's dog named?"
-I need your name to appear more than once in the history. Delete this line and enter pet's name please.'
+"Jasper"
